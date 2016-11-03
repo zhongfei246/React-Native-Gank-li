@@ -1,0 +1,1 @@
+ const unsigned char RNMyTwoDemoVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:RNMyTwoDemo  PROJECT:RNMyTwoDemo-1" "\n"; const double RNMyTwoDemoVersionNumber __attribute__ ((used)) = (double)1.;
