@@ -2,8 +2,16 @@
 
 #刚学习React native，仿照github名为PoberWong的作者写的，里面有注释！
 
+#运行安装：
+ 1.下载下来之后使用终端定位到工程根目录下 cd your_project_path，
+ 
+ 2.npm install，
+ 
+ 3.修改android文件夹下的local.properties内容：使用文本编辑打开，把lizhongfeiMac换成你电脑的名字（在终端敲入：whoami即可拿到用户名），
+ 
+ 4.ios若运行有错误可删除ios文件夹下的build文件夹中的ModuleCache文件夹，这是缓存，可以删除。
 
-运行截图如下：
+#运行截图如下：
 
 第一张：
 
